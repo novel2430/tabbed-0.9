@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[] = "Hack Nerd Font Mono:size=14";
+static const char font[] = "Hack Nerd Font Mono:size=12";
 static const char *normbgcolor = "#222222";
 static const char *normfgcolor = "#eceff4";
 static const char *selbgcolor = "#5e936c";
